@@ -2,16 +2,6 @@
 깃  허브 리포
 # 유니티 엔진소개
 
-#게임 엔진의 특징 
--폼ㄴ폼
-----cs
+### 유니티 VR 개발
 
-private Transfrmtr tr;
-
-private Start()
-    tr = this.gameObject ,GETComponent<Transform>();
-    
-
-
-| 제목  | 주제 |
-|-------|-----|
+유니티로 개발하는 VR
